@@ -1,4 +1,4 @@
-# Desarrollo del reto_01
+# DESARROLLO DEL reto_01
 
 ## Ejercicio 1: Calculadora básica
 
